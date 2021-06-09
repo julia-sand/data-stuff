@@ -1,9 +1,0 @@
-Class	Text
-spam	FREE online !!! results
-ham	results repository online FREE
-spam	FREE online results FREE !!! registration
-spam	!!! registration FREE !!! repository
-ham	conference online registration conference !!!
-ham	conference results repository results FREE
-?	FREE online conference !!! registration
-?	conference registration results conference online !!!
